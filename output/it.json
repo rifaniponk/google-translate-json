@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "Impossibile aprire la fotocamera",
+    "browserNotSupported": "Sembra che il tuo browser o app non supporti la registrazione in-app.",
+    "tapToUpload": "Tocca per caricare il tuo file",
+    "maxSize": "Dimensione massima",
+    "seePreview": "Vedi Anteprima",
+    "pleaseDoNotClose": "Ci vorranno alcuni minuti, per favore non chiudere l'app.",
+    "delete": "Elimina",
+    "replace": "Sostituire",
+    "deleteConfirmation": "Sei sicuro di voler cancellare il suo file?",
+    "yesDelete": "Sì, Elimina",
+    "cancel": "Annulla"
+  }
+}

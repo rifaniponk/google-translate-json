@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "Không thể mở camera",
+    "browserNotSupported": "Có vẻ như trình duyệt hoặc ứng dụng của bạn không hỗ trợ ghi âm trong ứng dụng.",
+    "tapToUpload": "Nhấn để tải lên tệp của bạn",
+    "maxSize": "Kích thước tối đa.",
+    "seePreview": "Xem xem trước",
+    "pleaseDoNotClose": "Sẽ mất vài phút, xin vui lòng không đóng ứng dụng.",
+    "delete": "Xóa bỏ",
+    "replace": "Thay thế",
+    "deleteConfirmation": "Bạn có chắc chắn muốn xóa tập tin của mình?",
+    "yesDelete": "Có, xóa",
+    "cancel": "Hủy bỏ"
+  }
+}

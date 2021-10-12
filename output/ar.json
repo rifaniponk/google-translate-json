@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "فشل في فتح الكاميرا",
+    "browserNotSupported": "يبدو أن متصفحك أو التطبيق لا يدعم تسجيل الدخول في التطبيق.",
+    "tapToUpload": "انقر لتحميل الملف الخاص بك",
+    "maxSize": "اقصى حجم",
+    "seePreview": "انظر المعاينة",
+    "pleaseDoNotClose": "سوف يستغرق الأمر بضع دقائق، يرجى عدم إغلاق التطبيق.",
+    "delete": "حذف",
+    "replace": "يحل محل",
+    "deleteConfirmation": "هل أنت متأكد أنك تريد حذف ملفه؟",
+    "yesDelete": "نعم، حذف",
+    "cancel": "يلغي"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "google-translate-json",
+  "version": "1.0.0",
+  "description": "translate english dictionary in json files into another language in json files as well",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rifaniponk/google-translate-json.git"
+  },
+  "author": "rifan.refun@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rifaniponk/google-translate-json/issues"
+  },
+  "homepage": "https://github.com/rifaniponk/google-translate-json#readme",
+  "dependencies": {
+    "puppeteer-google-translate": "^1.0.4"
+  }
+}

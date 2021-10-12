@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "Neizdevās atvērt kameru",
+    "browserNotSupported": "Šķiet, ka jūsu pārlūkprogramma vai lietotne neatbalsta lietotnes ierakstu.",
+    "tapToUpload": "Pieskarieties, lai augšupielādētu failu",
+    "maxSize": "Maksimālais izmērs",
+    "seePreview": "Skatīt priekšskatījumu",
+    "pleaseDoNotClose": "Tas prasīs dažas minūtes, lūdzu, neaizveriet lietotni.",
+    "delete": "Izdzēst",
+    "replace": "Aizvietot",
+    "deleteConfirmation": "Vai tiešām vēlaties dzēst savu failu?",
+    "yesDelete": "Jā, dzēst",
+    "cancel": "Atcelt"
+  }
+}

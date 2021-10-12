@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "Failed to Open Camera",
+    "browserNotSupported": "It seems your browser or app doesn’t support in-app recording.",
+    "tapToUpload": "Tap to upload your file",
+    "maxSize": "max size",
+    "seePreview": "See Preview",
+    "pleaseDoNotClose": "It will take a few minutes, please do not close the app.",
+    "delete": "Delete",
+    "replace": "Replace",
+    "deleteConfirmation": "Are you sure you want to delete his file?",
+    "yesDelete": "Yes, delete",
+    "cancel": "Cancel"
+  }
+}

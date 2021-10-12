@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "Falha ao abrir a câmera",
+    "browserNotSupported": "Parece que seu navegador ou aplicativo não suporta a gravação no aplicativo.",
+    "tapToUpload": "Toque para carregar seu arquivo",
+    "maxSize": "tamanho máximo",
+    "seePreview": "Veja Preview.",
+    "pleaseDoNotClose": "Levará alguns minutos, por favor, não feche o aplicativo.",
+    "delete": "Excluir",
+    "replace": "Substituir",
+    "deleteConfirmation": "Tem certeza de que deseja excluir o arquivo dele?",
+    "yesDelete": "Sim, excluir.",
+    "cancel": "Cancelar"
+  }
+}

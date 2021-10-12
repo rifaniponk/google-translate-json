@@ -1,0 +1,15 @@
+{
+  "FileUpload": {
+    "failedToOpenCamera": "无法打开相机",
+    "browserNotSupported": "似乎您的浏览器或应用程序不支持应用内录制。",
+    "tapToUpload": "点按以上载文件",
+    "maxSize": "最大尺寸",
+    "seePreview": "查看预览",
+    "pleaseDoNotClose": "它需要几分钟，请不要关闭应用程序。",
+    "delete": "删除",
+    "replace": "代替",
+    "deleteConfirmation": "您确定要删除他的文件吗？",
+    "yesDelete": "是，删除",
+    "cancel": "取消"
+  }
+}
