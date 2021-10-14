@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "Sẽ mất vài phút, xin vui lòng không đóng ứng dụng.",
     "delete": "Xóa bỏ",
     "replace": "Thay thế",
-    "deleteConfirmation": "Bạn có chắc chắn muốn xóa tập tin của mình?",
+    "deleteConfirmation": "Bạn có chắc chắn muốn xóa tập tin này?",
     "yesDelete": "Có, xóa",
-    "cancel": "Hủy bỏ"
+    "cancel": "Hủy bỏ",
+    "fileNotSupported": "Xin lỗi, bạn không thể tải lên loại tệp đó. Bạn có thể tải lên bất kỳ tệp nào sau đây: {{formatsxxx}}",
+    "videoTooLarge": "Xin lỗi, video đó quá lớn. Giảm kích thước video của bạn thành {{sizexxx}} hoặc ít hơn hoặc chọn một số khác.",
+    "photoTooLarge": "Xin lỗi, bức ảnh đó quá lớn. Giảm kích thước ảnh của bạn lên {{sizexxx}} hoặc ít hơn hoặc chọn một số khác.",
+    "yourUploadWillBeRemoved": "Tệp tải lên của bạn sẽ bị xóa",
+    "yourUploadWillBeRemovedIfModalClosed": "Tệp tải lên của bạn sẽ bị xóa nếu bạn đóng chế độ xem này",
+    "pleaseUploadFile": "Vui lòng tải lên một tập tin trước khi tiếp tục",
+    "only1FileAccepted": "Xin lỗi, bạn không thể tải lên nhiều tệp. Vui lòng chọn một tập tin duy nhất.",
+    "leaveConfirmation": "Bạn có chắc bạn muốn để lại?",
+    "videoIsNotSupported": "Xin lỗi, trình duyệt của bạn không thể phát loại tệp video này",
+    "stay": "Ở lại",
+    "leave": "Rời bỏ",
+    "ok": "VÂNG"
   }
 }

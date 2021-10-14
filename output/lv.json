@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "Tas prasīs dažas minūtes, lūdzu, neaizveriet lietotni.",
     "delete": "Izdzēst",
     "replace": "Aizvietot",
-    "deleteConfirmation": "Vai tiešām vēlaties dzēst savu failu?",
+    "deleteConfirmation": "Vai esat pārliecināts, ka vēlaties izdzēst šo failu?",
     "yesDelete": "Jā, dzēst",
-    "cancel": "Atcelt"
+    "cancel": "Atcelt",
+    "fileNotSupported": "Atvainojiet, jūs nevarat augšupielādēt šo failu. Jūs varat augšupielādēt kādu no šiem failiem: {{Formatsxxx}}",
+    "videoTooLarge": "Atvainojiet, ka videoklips ir pārāk liels. Samaziniet video izmēru uz {{sizexxx}} vai mazāk vai atlasiet citu.",
+    "photoTooLarge": "Atvainojiet, ka fotoattēls ir pārāk liels. Samaziniet līdz fotoattēla izmēru uz {{sizexxx}} vai mazāk vai atlasiet citu.",
+    "yourUploadWillBeRemoved": "Jūsu augšupielādētais fails tiks noņemts",
+    "yourUploadWillBeRemovedIfModalClosed": "Jūsu augšupielādētais fails tiks noņemts, ja aizverat šo skatījumu",
+    "pleaseUploadFile": "Lūdzu, augšupielādējiet failu pirms turpināšanas",
+    "only1FileAccepted": "Atvainojiet, jūs nevarat augšupielādēt vairākus failus. Lūdzu, izvēlieties vienu failu.",
+    "leaveConfirmation": "Vai esat pārliecināts, ka vēlaties atstāt?",
+    "videoIsNotSupported": "Atvainojiet, jūsu pārlūkprogramma nevar atskaņot šāda veida video failu",
+    "stay": "Palikt",
+    "leave": "Atvaļinājums",
+    "ok": "labi"
   }
 }

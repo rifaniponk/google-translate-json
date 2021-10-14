@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rifaniponk/google-translate-json#readme",
   "dependencies": {
-    "puppeteer-google-translate": "^1.0.4"
+    "puppeteer-google-translate": "^1.0.6"
   }
 }

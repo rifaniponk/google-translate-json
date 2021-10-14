@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "Levará alguns minutos, por favor, não feche o aplicativo.",
     "delete": "Excluir",
     "replace": "Substituir",
-    "deleteConfirmation": "Tem certeza de que deseja excluir o arquivo dele?",
+    "deleteConfirmation": "Tem certeza de que deseja excluir este arquivo?",
     "yesDelete": "Sim, excluir.",
-    "cancel": "Cancelar"
+    "cancel": "Cancelar",
+    "fileNotSupported": "Desculpe, você não pode enviar esse tipo de arquivo. Você pode enviar qualquer um dos seguintes arquivos: {{formatsxxx}}",
+    "videoTooLarge": "Desculpe, esse vídeo é muito grande. Reduza ao tamanho do seu vídeo para {{sizexxx} ou menos ou selecione um diferente.",
+    "photoTooLarge": "Desculpe, essa foto é muito grande. Reduza ao tamanho da sua foto para {{sizexxx} ou menos ou selecione um diferente.",
+    "yourUploadWillBeRemoved": "Seu arquivo enviado seria removido",
+    "yourUploadWillBeRemovedIfModalClosed": "Seu arquivo enviado será removido se você fechar essa exibição",
+    "pleaseUploadFile": "Por favor, envie um arquivo antes de continuar",
+    "only1FileAccepted": "Desculpe, você não pode carregar vários arquivos. Por favor, selecione um único arquivo.",
+    "leaveConfirmation": "Você tem certeza de que quer sair?",
+    "videoIsNotSupported": "Desculpe, o seu navegador não pode reproduzir este tipo de arquivo de vídeo",
+    "stay": "Fique",
+    "leave": "Sair",
+    "ok": "OK"
   }
 }

@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "It will take a few minutes, please do not close the app.",
     "delete": "Delete",
     "replace": "Replace",
-    "deleteConfirmation": "Are you sure you want to delete his file?",
+    "deleteConfirmation": "Are you sure you want to delete this file?",
     "yesDelete": "Yes, delete",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "fileNotSupported": "Sorry, you can’t upload that kind of file. You can upload any of the following files: {{formatsxxx}}",
+    "videoTooLarge": "Sorry, that video is too large. Reduce to size of your video to {{sizexxx}} or less or select a different one.",
+    "photoTooLarge": "Sorry, that photo is too large. Reduce to size of your photo to {{sizexxx}} or less or select a different one.",
+    "yourUploadWillBeRemoved": "Your uploaded file would be removed",
+    "yourUploadWillBeRemovedIfModalClosed": "Your uploaded file will be removed if you close this view",
+    "pleaseUploadFile": "Please upload a file before continuing",
+    "only1FileAccepted": "Sorry, you can’t upload multiple files. Please select a single file.",
+    "leaveConfirmation": "Are you sure you want to leave?",
+    "videoIsNotSupported": "Sorry, your browser can’t play this type of video file",
+    "stay": "Stay",
+    "leave": "Leave",
+    "ok": "OK"
   }
 }

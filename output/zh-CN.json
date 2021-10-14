@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "它需要几分钟，请不要关闭应用程序。",
     "delete": "删除",
     "replace": "代替",
-    "deleteConfirmation": "您确定要删除他的文件吗？",
+    "deleteConfirmation": "您确定要删除此文件吗？",
     "yesDelete": "是，删除",
-    "cancel": "取消"
+    "cancel": "取消",
+    "fileNotSupported": "对不起，您无法上传那种文件。 您可以上传以下任何文件：{{formatsxxx}}",
+    "videoTooLarge": "对不起，该视频太大了。 将视频的大小减少到{sizexxx}}或更少或更少或选择不同的。",
+    "photoTooLarge": "对不起，这张照片太大了。 将照片的大小减少到{{sizexxxx}}或更少或更少或选择不同的照片。",
+    "yourUploadWillBeRemoved": "您上传的文件将被删除",
+    "yourUploadWillBeRemovedIfModalClosed": "如果关闭此视图，将删除您上传的文件",
+    "pleaseUploadFile": "请在继续之前上传文件",
+    "only1FileAccepted": "对不起，您无法上传多个文件。 请选择单个文件。",
+    "leaveConfirmation": "你确定要离开吗？",
+    "videoIsNotSupported": "对不起，您的浏览器无法播放此类视频文件",
+    "stay": "停留",
+    "leave": "离开",
+    "ok": "好的"
   }
 }

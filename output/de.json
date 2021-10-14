@@ -8,8 +8,20 @@
     "pleaseDoNotClose": "Es dauert einige Minuten, bitte schließen Sie die App nicht.",
     "delete": "Löschen",
     "replace": "Ersetzen",
-    "deleteConfirmation": "Möchten Sie sicher, dass Sie seine Datei löschen möchten?",
+    "deleteConfirmation": "Möchten Sie diese Datei sicher, dass Sie diese Datei löschen möchten?",
     "yesDelete": "Ja, delete.",
-    "cancel": "Abbrechen"
+    "cancel": "Abbrechen",
+    "fileNotSupported": "Leider können Sie diese Art von Datei nicht hochladen. Sie können eine der folgenden Dateien hochladen: {{formatsxxx}}",
+    "videoTooLarge": "Entschuldigung, dass das Video zu groß ist. Reduzieren Sie die Größe Ihres Videos bis {{sizexxx}} oder weniger oder wählen Sie einen anderen aus.",
+    "photoTooLarge": "Leider ist das Foto zu groß. Reduzieren Sie die Größe Ihres Fotos auf {{sizexxx}} oder weniger oder wählen Sie einen anderen aus.",
+    "yourUploadWillBeRemoved": "Ihre hochgeladene Datei würde entfernt",
+    "yourUploadWillBeRemovedIfModalClosed": "Ihre hochgeladene Datei wird entfernt, wenn Sie diese Ansicht schließen",
+    "pleaseUploadFile": "Bitte laden Sie eine Datei hoch, bevor Sie fortfahren",
+    "only1FileAccepted": "Leider können Sie keine mehrfachen Dateien hochladen. Bitte wählen Sie eine einzelne Datei aus.",
+    "leaveConfirmation": "Bist du sicher dass du gehen willst?",
+    "videoIsNotSupported": "Leider kann Ihr Browser diese Art von Videodatei nicht abspielen",
+    "stay": "Bleibe",
+    "leave": "Verlassen",
+    "ok": "OK"
   }
 }
