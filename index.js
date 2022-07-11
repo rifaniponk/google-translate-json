@@ -19,17 +19,27 @@ const translate = async (lang) => {
         if (Object.prototype.hasOwnProperty.call(data, prop)) {
           if (typeof data[prop] === "string") {
             console.log("translating: " + data[prop]);
-            const result = data[prop] ? await translateText(data[prop], opt) : '';
-            translatedData[prop] = result;
-            console.log(result);
+            try {
+              const result = data[prop] ? await translateText(data[prop], opt) : '';
+              translatedData[prop] = result;
+              console.log(result);
+            } catch(err) {
+              translatedData[prop][prop2] = data[prop];
+              console.error(err);
+            }
           } else {
             for (var prop2 in data[prop]) {
               if (Object.prototype.hasOwnProperty.call(data[prop], prop2)) {
                 if (typeof data[prop][prop2] === "string") {
                   console.log("translating: " + data[prop][prop2]);
-                  const result = data[prop][prop2] ? await translateText(data[prop][prop2], opt) : '';
-                  translatedData[prop][prop2] = result;
-                  console.log(result);
+                  try {
+                    const result = data[prop][prop2] ? await translateText(data[prop][prop2], opt) : '';
+                    translatedData[prop][prop2] = result;
+                    console.log(result);
+                  } catch(err) {
+                    translatedData[prop][prop2] = data[prop][prop2];
+                    console.error(err);
+                  }
                 }
               }
             }
