@@ -2,7 +2,8 @@ const fs = require("fs");
 const { translateText } = require("puppeteer-google-translate");
 const opt = { from: "en", to: "es", timeout: 10000, headless: true };
 
-const outputLanguages = ["ar", "de", "el", "es", "it", "lv", "pt", "ru", "vi", "zh-CN"];
+const outputLanguages = ["ar", "de", "el", "es", "it", "lv", "pt", "ru", "vi", "zh-CN", "hi"];
+// const outputLanguages = ["vi"];
 
 const translate = async (lang) => {
   opt.to = lang;
@@ -18,7 +19,7 @@ const translate = async (lang) => {
         if (Object.prototype.hasOwnProperty.call(data, prop)) {
           if (typeof data[prop] === "string") {
             console.log("translating: " + data[prop]);
-            const result = await translateText(data[prop], opt);
+            const result = data[prop] ? await translateText(data[prop], opt) : '';
             translatedData[prop] = result;
             console.log(result);
           } else {
@@ -26,7 +27,7 @@ const translate = async (lang) => {
               if (Object.prototype.hasOwnProperty.call(data[prop], prop2)) {
                 if (typeof data[prop][prop2] === "string") {
                   console.log("translating: " + data[prop][prop2]);
-                  const result = await translateText(data[prop][prop2], opt);
+                  const result = data[prop][prop2] ? await translateText(data[prop][prop2], opt) : '';
                   translatedData[prop][prop2] = result;
                   console.log(result);
                 }
